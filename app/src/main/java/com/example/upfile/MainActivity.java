@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 //        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
 //        setSupportActionBar(toolbar);
 
-        imgView = (ImageView) findViewById(R.id.imgView);
+      //  imgView = (ImageView) findViewById(R.id.imgView);
         btnSelect = (Button) findViewById(R.id.btnSelect);
         btnUpload = (Button) findViewById(R.id.btnUpload);
         txtStatus = (TextView) findViewById(R.id.txtStatus);
